@@ -10,7 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class ActionsClass_MouseMethods {
+public class MoveToTheElement_MouseEvents {
 
 	public static void main(String args[]) {
 
