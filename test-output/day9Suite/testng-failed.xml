@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [day9Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="day9.AccountLogin">
+        <methods>
+          <include name="enteruserDetails"/>
+          <include name="testMyAccounttitle"/>
+        </methods>
+      </class> <!-- day9.AccountLogin -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [day9Suite] -->
