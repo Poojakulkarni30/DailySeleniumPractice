@@ -5,8 +5,8 @@
 	<groupId>DailySeleniumPractice</groupId>
 	<artifactId>DailySeleniumPractice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
-	
+
+
 	<dependencies>
 		<!-- Selenium Java -->
 		<dependency>
@@ -38,6 +38,12 @@
 			<version>7.10.2</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>5.1.1</version>
+		</dependency>
+
 
 	</dependencies>
 

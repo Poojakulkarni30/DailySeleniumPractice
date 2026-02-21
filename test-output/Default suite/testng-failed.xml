@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="day8.PropertiesFileRead">
+      <class name="day10.BaseTest">
         <methods>
-          <include name="enteruserDetails"/>
+          <include name="loginwithcorrectData"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- day8.PropertiesFileRead -->
+      </class> <!-- day10.BaseTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
